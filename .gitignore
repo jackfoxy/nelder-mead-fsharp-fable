@@ -9,6 +9,7 @@ npm-debug.log
 
 # F#
 .fake/
+.ionide/
 packages/
 paket-files/
 build/
